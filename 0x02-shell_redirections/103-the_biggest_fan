@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -n +2 | cut --fields=-1 |sort --key=1 | uniq --count | sort --numeric-sort --reverse --key=1 | head -n 11 | rev | cut --fields=-1 --delimiter='' | rev
+tail -n +2 | cut --fields=-1 |sort --key=1 | uniq --count | sort --numeric-sort --reverse --key=1 | head -n 11 | tr -s ' ' | cut --fields=3 --delimiter=' '
