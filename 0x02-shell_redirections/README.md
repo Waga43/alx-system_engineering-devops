@@ -16,4 +16,15 @@ This directory contains scripts on Shell Redirections
 
 6. [Count the Number of Directories in a Specific Directory](https://www.baeldung.com/linux/count-directories)
 
+7. [Understanding /etc/passwd File Format](https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/)
+
+8. [Understanding /etc/shadow file format on Linux](https://www.cyberciti.biz/faq/understanding-etcshadow-file/)
+
+9. [Understanding the /etc/passwd File](https://www.geeksforgeeks.org/understanding-the-etc-passwd-file/)
+
+10. 
+
+
+
+
 7. More to be added......
