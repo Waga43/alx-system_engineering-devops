@@ -18,7 +18,11 @@
 
 7. [Parameters](Parameters)
 
-8. 
+8. [How to add directories to your Linux $PATH](https://www.techrepublic.com/article/linux-101-how-to-add-directories-to-your-linux-path/)
+
+9. [How to Add a Directory to PATH in Linux](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
+
+10. 
 
 
 
