@@ -22,7 +22,11 @@
 
 9. [How to Add a Directory to PATH in Linux](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
 
-10. 
+10.[tr command in Unix/Linux with examples](https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/)
+
+11. [tr Command with examples](https://phoenixnap.com/kb/linux-tr)
+
+12.   
 
 
 
