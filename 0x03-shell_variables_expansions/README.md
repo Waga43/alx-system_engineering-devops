@@ -26,7 +26,11 @@
 
 11. [tr Command with examples](https://phoenixnap.com/kb/linux-tr)
 
-12.   
+12.[Fancy Tricks for Changing Numeric Base](https://www.linuxjournal.com/content/fancy-tricks-changing-numeric-base)
+
+13. [Builtin Bash any base to decimal conversion](https://phoxis.org/2012/07/12/builtin-bash-any-base-to-decimal-conversion/)
+
+14.    
 
 
 
