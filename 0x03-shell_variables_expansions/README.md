@@ -34,7 +34,11 @@
 
 15. [How to Echo Newline in Bash](https://linuxhint.com/echo-newline-bash/)
 
-16     
+16. [How to encrypt a string with ROT13 (one liner)](https://evilshit.wordpress.com/2012/06/28/how-to-encrypt-a-string-with-rot13-one-liner/)
+
+17. [Stackoverflow: using rot13 and tr command for having an encrypted email address](https://stackoverflow.com/questions/5442436/using-rot13-and-tr-command-for-having-an-encrypted-email-address)
+
+18.      
 
 
 
