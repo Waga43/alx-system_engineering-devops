@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '(%bestchol (%water + %stir) $WATER + $STIR)'
+printf '(%bestchol (%water +  %stir)' $WATER $STIR)
