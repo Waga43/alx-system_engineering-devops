@@ -30,7 +30,11 @@
 
 13. [Builtin Bash any base to decimal conversion](https://phoxis.org/2012/07/12/builtin-bash-any-base-to-decimal-conversion/)
 
-14.    
+14. [How to Round to 2 Decimal Places in Bash](https://linuxhint.com/round-two-decimal-places-bash/)
+
+15. [How to Echo Newline in Bash](https://linuxhint.com/echo-newline-bash/)
+
+16     
 
 
 
