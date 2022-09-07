@@ -38,7 +38,9 @@
 
 17. [Stackoverflow: using rot13 and tr command for having an encrypted email address](https://stackoverflow.com/questions/5442436/using-rot13-and-tr-command-for-having-an-encrypted-email-address)
 
-18.      
+18. [Using the Linux cut command to grab portions of lines from files](https://www.networkworld.com/article/3628236/using-the-linux-cut-command-to-grab-portions-of-lines-from-files.html)
+
+19.       
 
 
 
