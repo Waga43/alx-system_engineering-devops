@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Script runs software as another user passed as an argument using  whoami
+
+sudo -u "$1" whoami
