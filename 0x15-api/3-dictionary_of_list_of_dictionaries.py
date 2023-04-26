@@ -25,7 +25,6 @@ if __name__ == "__main__":
             dict2 = {}
 
             if item2['id'] == item1['userId']:
-
                 dict2['username'] = item2['username']
                 dict2['task'] = item1['title']
                 dict2['completed'] = item1['completed']
