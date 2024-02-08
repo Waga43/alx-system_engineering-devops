@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-# Script generates an RSH key pair
-ssh-keygen -b 4096 -f school -t rsa -P betty
-
